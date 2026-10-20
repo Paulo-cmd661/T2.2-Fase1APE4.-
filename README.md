@@ -33,9 +33,9 @@
 
 **Conceptos aplicados:** clases, constructor, arreglo de objetos, `if / else if`, contador.
 
-**Resultado en consola**
+**Evidencia de la ejecución**
 
-<!-- Pega aquí la captura del Ejercicio 1 -->
+<img width="940" height="382" alt="image" src="https://github.com/user-attachments/assets/d2685dbf-79e9-4649-9bdf-3a8ed8cd6bcf" />
 
 ---
 
@@ -53,9 +53,9 @@
 
 **Conceptos aplicados:** métodos con parámetros, modificación de atributos, acumulador, condicional.
 
-**Resultado en consola**
+**Evidencia de la ejecución**
 
-<!-- Pega aquí la captura del Ejercicio 2 -->
+<img width="1008" height="298" alt="image" src="https://github.com/user-attachments/assets/71d6e528-19ba-4444-b882-89c46294d8c7" />
 
 ---
 
@@ -73,9 +73,9 @@
 
 **Conceptos aplicados:** objetos, referencias en memoria, condicional, bucle `for-each`.
 
-**Resultado en consola**
+**Evidencia de la ejecución**
 
-<!-- Pega aquí la captura del Ejercicio 3 -->
+<img width="886" height="184" alt="image" src="https://github.com/user-attachments/assets/e0596013-44bc-41c9-ba6e-928fd7d92b8a" />
 
 ---
 
@@ -93,9 +93,9 @@
 
 **Conceptos aplicados:** ciclo `while`, contador, métodos, arreglo de objetos.
 
-**Resultado en consola**
+**Evidencia de la ejecución**
 
-<!-- Pega aquí la captura del Ejercicio 4 -->
+<img width="886" height="335" alt="image" src="https://github.com/user-attachments/assets/739d729b-4758-4cbc-9bf9-23c1772de3b4" />
 
 ---
 
@@ -113,8 +113,8 @@
 
 **Conceptos aplicados:** relación entre dos clases, paso de objetos como parámetro, booleanos, contadores.
 
-**Resultado en consola**
+**Evidencia de la ejecución**
 
-<!-- Pega aquí la captura del Ejercicio 5 -->
+<img width="886" height="223" alt="image" src="https://github.com/user-attachments/assets/51bd46d4-2bda-4378-ac51-16041310fde6" />
 
 
